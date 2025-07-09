@@ -1,6 +1,7 @@
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
+[![CodeQL Advanced](https://github.com/J-u-i-c-y/hexlet-ci-app/actions/workflows/codeql.yml/badge.svg)](https://github.com/J-u-i-c-y/hexlet-ci-app/actions/workflows/codeql.yml)
 
 ## System requirements
 
